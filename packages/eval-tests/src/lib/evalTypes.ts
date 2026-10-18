@@ -25,7 +25,7 @@ const fields = {
 
 Use the available MongoDB MCP tools to fulfill the request end-to-end.
 
-Unless you are instructed otherwise, resolve minor ambiguity by using defaults
+Unless you are instructed otherwise, resolve minor ambiguity by using available tools, defaults
 and making a reasonable decision rather than asking clarifying questions.
 
 If the request refers to "the collection" without naming it,
